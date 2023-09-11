@@ -1,0 +1,12 @@
+E:\Documents\Projects\FullStack\RetailDemo\Billing.Messages\bin\Debug\net6.0\Billing.Messages.deps.json
+E:\Documents\Projects\FullStack\RetailDemo\Billing.Messages\bin\Debug\net6.0\Billing.Messages.dll
+E:\Documents\Projects\FullStack\RetailDemo\Billing.Messages\bin\Debug\net6.0\Billing.Messages.pdb
+E:\Documents\Projects\FullStack\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.csproj.AssemblyReference.cache
+E:\Documents\Projects\FullStack\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Projects\FullStack\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.AssemblyInfoInputs.cache
+E:\Documents\Projects\FullStack\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.AssemblyInfo.cs
+E:\Documents\Projects\FullStack\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.csproj.CoreCompileInputs.cache
+E:\Documents\Projects\FullStack\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.dll
+E:\Documents\Projects\FullStack\RetailDemo\Billing.Messages\obj\Debug\net6.0\refint\Billing.Messages.dll
+E:\Documents\Projects\FullStack\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.pdb
+E:\Documents\Projects\FullStack\RetailDemo\Billing.Messages\obj\Debug\net6.0\ref\Billing.Messages.dll

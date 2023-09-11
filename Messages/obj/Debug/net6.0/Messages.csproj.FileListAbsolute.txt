@@ -1,0 +1,12 @@
+E:\Documents\Projects\FullStack\RetailDemo\Messages\bin\Debug\net6.0\Messages.deps.json
+E:\Documents\Projects\FullStack\RetailDemo\Messages\bin\Debug\net6.0\Messages.dll
+E:\Documents\Projects\FullStack\RetailDemo\Messages\bin\Debug\net6.0\Messages.pdb
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Messages.csproj.AssemblyReference.cache
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Messages.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Messages.AssemblyInfoInputs.cache
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Messages.AssemblyInfo.cs
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Messages.csproj.CoreCompileInputs.cache
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Messages.dll
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\refint\Messages.dll
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Messages.pdb
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\ref\Messages.dll

@@ -1,0 +1,49 @@
+﻿1445-02-21 09:07:26.674 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 09:07:26.907 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:25:53.768 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 09:25:54.146 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:34:18.034 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 09:34:18.262 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:35:51.023 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 09:35:51.255 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:37:01.916 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 09:37:02.131 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:39:16.306 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 09:39:16.549 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:39:23.413 INFO  Received PlaceOrder, OrderId = 97ca8b0d-a969-43c2-b345-3c150a1b2946
+1445-02-21 09:43:59.464 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 09:43:59.684 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 11:11:10.057 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 11:11:10.324 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 11:15:40.239 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 11:15:40.501 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 11:16:06.297 INFO  Received OrderPlaced, OrderId = 8bf91cc0-ad3b-49a7-99fb-ee1e8ef7b2b0 - Charging credit card...
+1445-02-21 11:16:15.168 INFO  Received OrderPlaced, OrderId = b2408055-fd20-4207-b406-a1c558306b7d - Charging credit card...
+1445-02-21 11:16:18.102 INFO  Received OrderPlaced, OrderId = f30e41bd-7242-429f-a90f-f473e91dd493 - Charging credit card...
+1445-02-21 11:16:18.276 INFO  Received OrderPlaced, OrderId = 2503a2ae-339c-4bf4-b53b-3e0e875699fc - Charging credit card...
+1445-02-21 11:16:18.456 INFO  Received OrderPlaced, OrderId = 3467e582-1737-4442-a53c-00782a3f4e3b - Charging credit card...
+1445-02-21 13:27:20.773 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 13:27:20.999 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 13:27:26.494 INFO  Billing - Received OrderPlaced, OrderId = f3c247ce-07b8-46d8-8dd8-3e7579879df1 - Charging credit card...
+1445-02-21 13:28:07.931 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 13:28:08.238 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 13:28:16.507 INFO  Billing - Received OrderPlaced, OrderId = 3aaaed0b-c882-4fdc-9ed6-2390a30c878b - Charging credit card...
+1445-02-21 13:29:52.070 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 13:29:52.319 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 13:30:00.450 INFO  Billing - Received OrderPlaced, OrderId = 08572b2f-ae5a-4259-ba6d-3129019afdd0 - Charging credit card...
+1445-02-21 13:31:08.379 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 13:31:09.005 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 13:31:15.397 INFO  Billing - Received OrderPlaced, OrderId = 7c8774df-4b01-4cdd-b728-858ae65188d6 - Charging credit card...
+1445-02-21 13:58:36.711 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 13:58:36.902 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 15:55:16.053 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 15:55:16.823 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 15:55:52.353 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 15:55:52.630 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 15:55:54.918 INFO  Billing - Received OrderPlaced, OrderId = 24f7ce45-88ba-4b2e-9cc1-17fea3d87a3d - Charging credit card...
+1445-02-21 15:55:55.037 INFO  Billing - Received OrderPlaced, OrderId = e338dfba-ffef-4e07-95cf-e8c1316e3d87 - Charging credit card...
+1445-02-21 15:55:55.058 INFO  Billing - Received OrderPlaced, OrderId = 60cf6a06-7c09-473d-9df9-443735f80dcb - Charging credit card...
+1445-02-21 15:55:55.076 INFO  Billing - Received OrderPlaced, OrderId = 78640487-d0ba-42ab-bfb4-bb85e2603ee8 - Charging credit card...
+1445-02-21 15:56:28.803 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-21 15:56:29.036 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 15:56:38.560 INFO  Billing - Received OrderPlaced, OrderId = 3d424b94-3e7e-4517-9826-e8470eb88bb0 - Charging credit card...

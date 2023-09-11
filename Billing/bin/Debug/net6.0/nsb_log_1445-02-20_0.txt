@@ -1,0 +1,2 @@
+﻿1445-02-20 22:32:05.078 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+1445-02-20 22:32:05.233 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.

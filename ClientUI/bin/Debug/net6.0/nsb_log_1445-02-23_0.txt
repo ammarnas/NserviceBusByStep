@@ -1,0 +1,115 @@
+﻿1445-02-23 16:50:42.120 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-23 16:50:42.308 INFO  Auditing processed messages to 'audit'
+1445-02-23 16:50:42.354 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-23 16:50:45.096 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-23 16:50:45.004 WARN  Unable to register endpoint startup with ServiceControl. Going to reattempt registration after 00:01:00.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.ServiceControl' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Heartbeat.HeartbeatSender.SendEndpointStartupMessageAndSwallowExceptions(DateTime startupTime, TimeSpan delay, Boolean retry, CancellationToken cancellationToken) in /_/src/NServiceBus.Heartbeat/HeartbeatSender.cs:line 88
+1445-02-23 16:50:45.086 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:45.647 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:46.170 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:46.695 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:47.226 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:47.752 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:48.282 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:48.832 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:49.345 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:49.878 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:50.404 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:50.925 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:51.447 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:51.959 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:52.477 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:52.989 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:53.503 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:54.016 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:54.528 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:55.015 WARN  Unable to send heartbeat to ServiceControl.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.ServiceControl' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Heartbeat.HeartbeatSender.SendHeartbeatsAndSwallowExceptions(CancellationToken cancellationToken) in /_/src/NServiceBus.Heartbeat/HeartbeatSender.cs:line 50
+1445-02-23 16:50:55.062 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:55.576 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:56.107 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:56.625 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:57.155 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:57.685 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:58.211 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:58.737 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:59.250 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:50:59.763 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:51:00.278 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:51:00.801 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:51:01.320 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:51:01.845 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:51:02.365 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40
+1445-02-23 16:51:02.891 ERROR Error while sending metric data to Particular.Monitoring.
+System.Exception: Channel has been closed: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no exchange 'Particular.Monitoring' in vhost '/'', classId=60, methodId=40
+   at NServiceBus.Metrics.ServiceControl.ServiceControlReporting.NServiceBusMetadataReport.RunReportAsync(CancellationToken cancellationToken) in /_/src/NServiceBus.Metrics.ServiceControl/ServiceControlReporting/NServiceBusMetadataReport.cs:line 40

@@ -1,0 +1,493 @@
+﻿1445-02-20 13:40:50.301 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-20 13:40:50.942 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 13:41:24.006 INFO  Initiating shutdown.
+1445-02-20 13:41:24.034 INFO  Shutdown complete.
+1445-02-20 14:33:30.441 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-20 14:33:30.616 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 14:33:31.119 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 14:33:33.527 INFO  Sending PlaceOrder command, OrderId = f52e279f-dd8c-4ecd-9974-9075959a398f
+1445-02-20 14:33:33.662 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 14:33:33.778 INFO  Received PlaceOrder, OrderId = f52e279f-dd8c-4ecd-9974-9075959a398f
+1445-02-20 14:36:15.495 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-20 14:36:15.797 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 14:36:16.447 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 14:36:19.873 INFO  Sending PlaceOrder command, OrderId = 36c4f4bf-f060-43c5-a094-08aa4e2dfa04
+1445-02-20 14:36:19.876 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 14:36:19.978 INFO  Received PlaceOrder, OrderId = 36c4f4bf-f060-43c5-a094-08aa4e2dfa04
+1445-02-20 14:36:26.131 INFO  Sending PlaceOrder command, OrderId = 20301bf0-00b4-4395-9536-d1c6d4ea690d
+1445-02-20 14:36:26.133 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 14:36:26.136 INFO  Received PlaceOrder, OrderId = 20301bf0-00b4-4395-9536-d1c6d4ea690d
+1445-02-20 16:51:43.555 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-20 16:51:43.841 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 16:51:44.460 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:51:52.146 INFO  Unknown input. Please try again.
+1445-02-20 16:51:52.148 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:51:54.127 INFO  Sending PlaceOrder command, OrderId = b09964e0-0e9d-4d84-9216-e5d7f9d4b48f
+1445-02-20 16:51:54.293 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:51:54.400 INFO  Received PlaceOrder, OrderId = b09964e0-0e9d-4d84-9216-e5d7f9d4b48f
+1445-02-20 16:52:01.327 INFO  Sending PlaceOrder command, OrderId = 21c19077-a4d1-491e-bb95-1067b10745be
+1445-02-20 16:52:01.344 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:01.348 INFO  Received PlaceOrder, OrderId = 21c19077-a4d1-491e-bb95-1067b10745be
+1445-02-20 16:52:04.445 INFO  Sending PlaceOrder command, OrderId = ddeb92a2-f6dc-41d4-9631-ad0a6e463a74
+1445-02-20 16:52:04.467 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:04.471 INFO  Received PlaceOrder, OrderId = ddeb92a2-f6dc-41d4-9631-ad0a6e463a74
+1445-02-20 16:52:05.538 INFO  Sending PlaceOrder command, OrderId = 88342f92-54d7-4105-b076-26d19f65c629
+1445-02-20 16:52:05.558 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:05.562 INFO  Received PlaceOrder, OrderId = 88342f92-54d7-4105-b076-26d19f65c629
+1445-02-20 16:52:05.898 INFO  Sending PlaceOrder command, OrderId = 29fc0c2e-d465-4b6d-976a-72044b33baad
+1445-02-20 16:52:05.921 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:05.927 INFO  Received PlaceOrder, OrderId = 29fc0c2e-d465-4b6d-976a-72044b33baad
+1445-02-20 16:52:09.478 INFO  Sending PlaceOrder command, OrderId = 6f804140-d1d9-4bbc-b7e4-8a2ebb88eff0
+1445-02-20 16:52:09.500 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:09.504 INFO  Received PlaceOrder, OrderId = 6f804140-d1d9-4bbc-b7e4-8a2ebb88eff0
+1445-02-20 16:52:09.988 INFO  Sending PlaceOrder command, OrderId = b711bf93-8ed9-4505-b324-b27135f2a7e9
+1445-02-20 16:52:10.006 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.015 INFO  Received PlaceOrder, OrderId = b711bf93-8ed9-4505-b324-b27135f2a7e9
+1445-02-20 16:52:10.022 INFO  Sending PlaceOrder command, OrderId = 56783c9b-29bb-469a-b9b7-736461d65a05
+1445-02-20 16:52:10.040 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.044 INFO  Received PlaceOrder, OrderId = 56783c9b-29bb-469a-b9b7-736461d65a05
+1445-02-20 16:52:10.054 INFO  Sending PlaceOrder command, OrderId = 8e60fdd0-7f50-4bed-81ce-37786ac28959
+1445-02-20 16:52:10.071 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.077 INFO  Received PlaceOrder, OrderId = 8e60fdd0-7f50-4bed-81ce-37786ac28959
+1445-02-20 16:52:10.089 INFO  Sending PlaceOrder command, OrderId = 6a6377d2-eab4-440b-993b-0cb0799c534d
+1445-02-20 16:52:10.105 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.112 INFO  Received PlaceOrder, OrderId = 6a6377d2-eab4-440b-993b-0cb0799c534d
+1445-02-20 16:52:10.121 INFO  Sending PlaceOrder command, OrderId = 5e14e167-12d0-4e4a-aee2-c098a53c18a1
+1445-02-20 16:52:10.137 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.145 INFO  Received PlaceOrder, OrderId = 5e14e167-12d0-4e4a-aee2-c098a53c18a1
+1445-02-20 16:52:10.153 INFO  Sending PlaceOrder command, OrderId = ab619421-f6d4-47bf-9efd-2bec80c9b900
+1445-02-20 16:52:10.160 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.183 INFO  Received PlaceOrder, OrderId = ab619421-f6d4-47bf-9efd-2bec80c9b900
+1445-02-20 16:52:10.185 INFO  Sending PlaceOrder command, OrderId = 81e8151c-eb4c-478d-8191-44bf23a5b683
+1445-02-20 16:52:10.201 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.207 INFO  Received PlaceOrder, OrderId = 81e8151c-eb4c-478d-8191-44bf23a5b683
+1445-02-20 16:52:10.217 INFO  Sending PlaceOrder command, OrderId = e708f563-6ad1-4f9f-995e-7cb1d2ead194
+1445-02-20 16:52:10.232 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.238 INFO  Received PlaceOrder, OrderId = e708f563-6ad1-4f9f-995e-7cb1d2ead194
+1445-02-20 16:52:10.251 INFO  Sending PlaceOrder command, OrderId = 06619f40-59fd-4a3e-bc86-3b353787522e
+1445-02-20 16:52:10.266 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.271 INFO  Received PlaceOrder, OrderId = 06619f40-59fd-4a3e-bc86-3b353787522e
+1445-02-20 16:52:10.283 INFO  Sending PlaceOrder command, OrderId = a2ce17b5-fe81-4f0c-8d98-e9523b16ac43
+1445-02-20 16:52:10.298 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.304 INFO  Received PlaceOrder, OrderId = a2ce17b5-fe81-4f0c-8d98-e9523b16ac43
+1445-02-20 16:52:10.318 INFO  Sending PlaceOrder command, OrderId = eb4f7227-a309-4bce-9b9d-a1066c205688
+1445-02-20 16:52:10.334 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.340 INFO  Received PlaceOrder, OrderId = eb4f7227-a309-4bce-9b9d-a1066c205688
+1445-02-20 16:52:10.349 INFO  Sending PlaceOrder command, OrderId = f50430ff-c918-4566-b4e2-b3cdbfa2cf8c
+1445-02-20 16:52:10.372 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.376 INFO  Received PlaceOrder, OrderId = f50430ff-c918-4566-b4e2-b3cdbfa2cf8c
+1445-02-20 16:52:10.381 INFO  Sending PlaceOrder command, OrderId = 0d6a6247-db39-4303-8878-a412e03b317f
+1445-02-20 16:52:10.397 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.398 INFO  Received PlaceOrder, OrderId = 0d6a6247-db39-4303-8878-a412e03b317f
+1445-02-20 16:52:10.413 INFO  Sending PlaceOrder command, OrderId = 8b91990e-129e-4ddf-9bbe-ea0decaf9581
+1445-02-20 16:52:10.428 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.432 INFO  Received PlaceOrder, OrderId = 8b91990e-129e-4ddf-9bbe-ea0decaf9581
+1445-02-20 16:52:10.447 INFO  Sending PlaceOrder command, OrderId = 9f9f93f2-4477-4da4-9133-ae91c7dcc0c6
+1445-02-20 16:52:10.464 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.470 INFO  Received PlaceOrder, OrderId = 9f9f93f2-4477-4da4-9133-ae91c7dcc0c6
+1445-02-20 16:52:10.480 INFO  Sending PlaceOrder command, OrderId = 2bf6e608-b46d-47af-af8e-817f5677022f
+1445-02-20 16:52:10.501 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.507 INFO  Received PlaceOrder, OrderId = 2bf6e608-b46d-47af-af8e-817f5677022f
+1445-02-20 16:52:10.513 INFO  Sending PlaceOrder command, OrderId = 44fcee37-927f-4a68-93e5-c7a1507693ce
+1445-02-20 16:52:10.533 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.536 INFO  Received PlaceOrder, OrderId = 44fcee37-927f-4a68-93e5-c7a1507693ce
+1445-02-20 16:52:10.544 INFO  Sending PlaceOrder command, OrderId = 12338c30-f7be-469e-952d-5468eea6ce4e
+1445-02-20 16:52:10.566 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.570 INFO  Received PlaceOrder, OrderId = 12338c30-f7be-469e-952d-5468eea6ce4e
+1445-02-20 16:52:10.577 INFO  Sending PlaceOrder command, OrderId = 862076e5-d29c-47b1-b382-1bfb2953a9eb
+1445-02-20 16:52:10.597 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.601 INFO  Received PlaceOrder, OrderId = 862076e5-d29c-47b1-b382-1bfb2953a9eb
+1445-02-20 16:52:10.611 INFO  Sending PlaceOrder command, OrderId = a3ee3b02-d875-4f35-ae88-a092b4a64ab7
+1445-02-20 16:52:10.628 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.633 INFO  Received PlaceOrder, OrderId = a3ee3b02-d875-4f35-ae88-a092b4a64ab7
+1445-02-20 16:52:10.643 INFO  Sending PlaceOrder command, OrderId = a2fdc61e-fe6e-457e-b9f4-7d996be3d1d9
+1445-02-20 16:52:10.658 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.676 INFO  Sending PlaceOrder command, OrderId = a645b410-7dbf-4a83-8eab-9044009f6577
+1445-02-20 16:52:10.681 INFO  Received PlaceOrder, OrderId = a2fdc61e-fe6e-457e-b9f4-7d996be3d1d9
+1445-02-20 16:52:10.693 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.699 INFO  Received PlaceOrder, OrderId = a645b410-7dbf-4a83-8eab-9044009f6577
+1445-02-20 16:52:10.708 INFO  Sending PlaceOrder command, OrderId = 6edea1e4-c819-4128-a3dc-024262ecf419
+1445-02-20 16:52:10.721 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.740 INFO  Sending PlaceOrder command, OrderId = 9e532cc7-c1eb-469c-9fa3-eac2c05cf148
+1445-02-20 16:52:10.812 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.812 INFO  Received PlaceOrder, OrderId = 6edea1e4-c819-4128-a3dc-024262ecf419
+1445-02-20 16:52:10.818 INFO  Sending PlaceOrder command, OrderId = ad0d2ebb-18ad-4fba-b58e-393ce40d1063
+1445-02-20 16:52:10.831 INFO  Received PlaceOrder, OrderId = 9e532cc7-c1eb-469c-9fa3-eac2c05cf148
+1445-02-20 16:52:10.850 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.854 INFO  Sending PlaceOrder command, OrderId = 6a589032-c206-4914-bc02-45cadf10fb9e
+1445-02-20 16:52:10.859 INFO  Received PlaceOrder, OrderId = ad0d2ebb-18ad-4fba-b58e-393ce40d1063
+1445-02-20 16:52:10.873 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.877 INFO  Sending PlaceOrder command, OrderId = 4df244c2-c743-4a56-81fa-a9122a4352b4
+1445-02-20 16:52:10.881 INFO  Received PlaceOrder, OrderId = 6a589032-c206-4914-bc02-45cadf10fb9e
+1445-02-20 16:52:10.896 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.900 INFO  Sending PlaceOrder command, OrderId = 9adf879d-38c5-4b23-b31a-9f024da9e629
+1445-02-20 16:52:10.905 INFO  Received PlaceOrder, OrderId = 4df244c2-c743-4a56-81fa-a9122a4352b4
+1445-02-20 16:52:10.909 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.912 INFO  Sending PlaceOrder command, OrderId = 6e8fd0ef-a9ec-4eb0-8dd8-6a246c3b6a4e
+1445-02-20 16:52:10.918 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.922 INFO  Sending PlaceOrder command, OrderId = b8ea02a6-e4a6-4561-8a4a-64968fe27570
+1445-02-20 16:52:10.929 INFO  Received PlaceOrder, OrderId = 9adf879d-38c5-4b23-b31a-9f024da9e629
+1445-02-20 16:52:10.944 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.946 INFO  Received PlaceOrder, OrderId = 6e8fd0ef-a9ec-4eb0-8dd8-6a246c3b6a4e
+1445-02-20 16:52:10.948 INFO  Sending PlaceOrder command, OrderId = 1c6c0f4b-1fed-486c-839b-99179cb07731
+1445-02-20 16:52:10.956 INFO  Received PlaceOrder, OrderId = b8ea02a6-e4a6-4561-8a4a-64968fe27570
+1445-02-20 16:52:10.968 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.971 INFO  Sending PlaceOrder command, OrderId = 69943d59-9e92-4549-9678-904e68e1a065
+1445-02-20 16:52:10.975 INFO  Received PlaceOrder, OrderId = 1c6c0f4b-1fed-486c-839b-99179cb07731
+1445-02-20 16:52:10.987 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:10.991 INFO  Sending PlaceOrder command, OrderId = 63383841-f53b-4645-aa9f-041afe72bf32
+1445-02-20 16:52:10.996 INFO  Received PlaceOrder, OrderId = 69943d59-9e92-4549-9678-904e68e1a065
+1445-02-20 16:52:11.008 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.012 INFO  Sending PlaceOrder command, OrderId = 19cba525-58b6-4f13-9f41-918ca0f23d26
+1445-02-20 16:52:11.013 INFO  Received PlaceOrder, OrderId = 63383841-f53b-4645-aa9f-041afe72bf32
+1445-02-20 16:52:11.035 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.036 INFO  Received PlaceOrder, OrderId = 19cba525-58b6-4f13-9f41-918ca0f23d26
+1445-02-20 16:52:11.040 INFO  Sending PlaceOrder command, OrderId = 6c7f3466-ff90-4bfc-8cf1-73a3d3d43843
+1445-02-20 16:52:11.051 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.054 INFO  Sending PlaceOrder command, OrderId = a5701c3d-233c-479e-a8e6-a7116c934731
+1445-02-20 16:52:11.073 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.078 INFO  Sending PlaceOrder command, OrderId = 739e9a71-bc74-48f6-8637-f7fa2f88f932
+1445-02-20 16:52:11.082 INFO  Received PlaceOrder, OrderId = 6c7f3466-ff90-4bfc-8cf1-73a3d3d43843
+1445-02-20 16:52:11.092 INFO  Received PlaceOrder, OrderId = a5701c3d-233c-479e-a8e6-a7116c934731
+1445-02-20 16:52:11.099 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.102 INFO  Sending PlaceOrder command, OrderId = 2a418cf0-bf59-4210-8fea-f7799c9134be
+1445-02-20 16:52:11.107 INFO  Received PlaceOrder, OrderId = 739e9a71-bc74-48f6-8637-f7fa2f88f932
+1445-02-20 16:52:11.121 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.124 INFO  Sending PlaceOrder command, OrderId = ad666147-d57d-4a8a-bcf9-57c8133442ce
+1445-02-20 16:52:11.128 INFO  Received PlaceOrder, OrderId = 2a418cf0-bf59-4210-8fea-f7799c9134be
+1445-02-20 16:52:11.142 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.145 INFO  Sending PlaceOrder command, OrderId = 6cadb862-2a87-4f92-8259-49c964f7786a
+1445-02-20 16:52:11.149 INFO  Received PlaceOrder, OrderId = ad666147-d57d-4a8a-bcf9-57c8133442ce
+1445-02-20 16:52:11.162 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.166 INFO  Sending PlaceOrder command, OrderId = 1e606305-dac3-47b2-ae6a-76558018a479
+1445-02-20 16:52:11.170 INFO  Received PlaceOrder, OrderId = 6cadb862-2a87-4f92-8259-49c964f7786a
+1445-02-20 16:52:11.187 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.190 INFO  Sending PlaceOrder command, OrderId = 9d873112-c68a-46cc-96cc-c03296bbcfe0
+1445-02-20 16:52:11.191 INFO  Received PlaceOrder, OrderId = 1e606305-dac3-47b2-ae6a-76558018a479
+1445-02-20 16:52:11.210 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.213 INFO  Sending PlaceOrder command, OrderId = fad7b678-e5be-4ff1-879b-c716fc13ce85
+1445-02-20 16:52:11.217 INFO  Received PlaceOrder, OrderId = 9d873112-c68a-46cc-96cc-c03296bbcfe0
+1445-02-20 16:52:11.232 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.235 INFO  Sending PlaceOrder command, OrderId = d61867c6-9b35-4fd0-8353-c531e78f7f08
+1445-02-20 16:52:11.239 INFO  Received PlaceOrder, OrderId = fad7b678-e5be-4ff1-879b-c716fc13ce85
+1445-02-20 16:52:11.259 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.264 INFO  Sending PlaceOrder command, OrderId = 8f57922a-d3ca-4e44-9431-6cf48fc41619
+1445-02-20 16:52:11.265 INFO  Received PlaceOrder, OrderId = d61867c6-9b35-4fd0-8353-c531e78f7f08
+1445-02-20 16:52:11.284 INFO  Received PlaceOrder, OrderId = 8f57922a-d3ca-4e44-9431-6cf48fc41619
+1445-02-20 16:52:11.288 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.290 INFO  Sending PlaceOrder command, OrderId = 5c00bdf8-d38f-4a4e-ac0f-90b7079b9bda
+1445-02-20 16:52:11.305 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.310 INFO  Sending PlaceOrder command, OrderId = 6cafd75e-e075-4cb5-ae43-a122bd87c424
+1445-02-20 16:52:11.317 INFO  Received PlaceOrder, OrderId = 5c00bdf8-d38f-4a4e-ac0f-90b7079b9bda
+1445-02-20 16:52:11.334 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.336 INFO  Sending PlaceOrder command, OrderId = 24dac79f-af79-45c8-aa57-3d66bf892d24
+1445-02-20 16:52:11.340 INFO  Received PlaceOrder, OrderId = 6cafd75e-e075-4cb5-ae43-a122bd87c424
+1445-02-20 16:52:11.360 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.363 INFO  Sending PlaceOrder command, OrderId = 16f4ff9f-8501-4928-83b8-668229f9313e
+1445-02-20 16:52:11.364 INFO  Received PlaceOrder, OrderId = 24dac79f-af79-45c8-aa57-3d66bf892d24
+1445-02-20 16:52:11.382 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.384 INFO  Sending PlaceOrder command, OrderId = 8417c4cd-58ac-4120-aab1-ea56b7b6307b
+1445-02-20 16:52:11.390 INFO  Received PlaceOrder, OrderId = 16f4ff9f-8501-4928-83b8-668229f9313e
+1445-02-20 16:52:11.406 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.409 INFO  Sending PlaceOrder command, OrderId = c02fe747-8cbd-4861-9091-4d58fe650dc3
+1445-02-20 16:52:11.410 INFO  Received PlaceOrder, OrderId = 8417c4cd-58ac-4120-aab1-ea56b7b6307b
+1445-02-20 16:52:11.426 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.429 INFO  Sending PlaceOrder command, OrderId = a6d2dab6-b5fc-4836-afcb-2a466fa70d00
+1445-02-20 16:52:11.432 INFO  Received PlaceOrder, OrderId = c02fe747-8cbd-4861-9091-4d58fe650dc3
+1445-02-20 16:52:11.447 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.450 INFO  Sending PlaceOrder command, OrderId = f18a91a0-9874-40ef-b4a2-272d12a7b390
+1445-02-20 16:52:11.454 INFO  Received PlaceOrder, OrderId = a6d2dab6-b5fc-4836-afcb-2a466fa70d00
+1445-02-20 16:52:11.471 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.475 INFO  Sending PlaceOrder command, OrderId = 5609ae6d-5ea3-4415-8349-331e6ad5fe5a
+1445-02-20 16:52:11.481 INFO  Received PlaceOrder, OrderId = f18a91a0-9874-40ef-b4a2-272d12a7b390
+1445-02-20 16:52:11.500 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.504 INFO  Sending PlaceOrder command, OrderId = 5a194e59-95e7-4ddf-aae6-5fde576ba018
+1445-02-20 16:52:11.505 INFO  Received PlaceOrder, OrderId = 5609ae6d-5ea3-4415-8349-331e6ad5fe5a
+1445-02-20 16:52:11.514 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.517 INFO  Sending PlaceOrder command, OrderId = 36427429-dc8a-49b6-ba74-5a34752c672f
+1445-02-20 16:52:11.537 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.540 INFO  Sending PlaceOrder command, OrderId = 70cf53a7-7ec5-418d-b2e0-5d9cbd2f369f
+1445-02-20 16:52:11.551 INFO  Received PlaceOrder, OrderId = 5a194e59-95e7-4ddf-aae6-5fde576ba018
+1445-02-20 16:52:11.560 INFO  Received PlaceOrder, OrderId = 36427429-dc8a-49b6-ba74-5a34752c672f
+1445-02-20 16:52:11.567 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.572 INFO  Sending PlaceOrder command, OrderId = 5f03beb7-3cf6-4670-aeb5-a0466ea2dffa
+1445-02-20 16:52:11.576 INFO  Received PlaceOrder, OrderId = 70cf53a7-7ec5-418d-b2e0-5d9cbd2f369f
+1445-02-20 16:52:11.594 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.597 INFO  Sending PlaceOrder command, OrderId = d5c64a9a-a30d-4d01-b70f-0cdb9b5280d9
+1445-02-20 16:52:11.601 INFO  Received PlaceOrder, OrderId = 5f03beb7-3cf6-4670-aeb5-a0466ea2dffa
+1445-02-20 16:52:11.619 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.620 INFO  Received PlaceOrder, OrderId = d5c64a9a-a30d-4d01-b70f-0cdb9b5280d9
+1445-02-20 16:52:11.622 INFO  Sending PlaceOrder command, OrderId = 0f074302-de17-4a90-8831-d173fef382a2
+1445-02-20 16:52:11.644 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.644 INFO  Received PlaceOrder, OrderId = 0f074302-de17-4a90-8831-d173fef382a2
+1445-02-20 16:52:11.646 INFO  Sending PlaceOrder command, OrderId = f9c1a03c-8097-48a7-aa35-d8ff28edff39
+1445-02-20 16:52:11.670 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.673 INFO  Sending PlaceOrder command, OrderId = e19a5bc2-c5c5-4954-b19d-1ae51504fa2d
+1445-02-20 16:52:11.676 INFO  Received PlaceOrder, OrderId = f9c1a03c-8097-48a7-aa35-d8ff28edff39
+1445-02-20 16:52:11.701 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.706 INFO  Sending PlaceOrder command, OrderId = 294e9b33-b54f-446f-b24c-263963ac88f8
+1445-02-20 16:52:11.708 INFO  Received PlaceOrder, OrderId = e19a5bc2-c5c5-4954-b19d-1ae51504fa2d
+1445-02-20 16:52:11.729 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.730 INFO  Received PlaceOrder, OrderId = 294e9b33-b54f-446f-b24c-263963ac88f8
+1445-02-20 16:52:11.732 INFO  Sending PlaceOrder command, OrderId = 0387ba22-4f66-4565-9e6a-61a9c9ebfcbc
+1445-02-20 16:52:11.752 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.755 INFO  Sending PlaceOrder command, OrderId = 9bb33cb3-acee-4931-badb-daa5215176ed
+1445-02-20 16:52:11.762 INFO  Received PlaceOrder, OrderId = 0387ba22-4f66-4565-9e6a-61a9c9ebfcbc
+1445-02-20 16:52:11.778 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.781 INFO  Sending PlaceOrder command, OrderId = 558cb087-cbe3-43f1-bc48-f7dc93fa1be7
+1445-02-20 16:52:11.785 INFO  Received PlaceOrder, OrderId = 9bb33cb3-acee-4931-badb-daa5215176ed
+1445-02-20 16:52:11.799 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.803 INFO  Sending PlaceOrder command, OrderId = 1fd2aea7-a799-4fee-9456-a4109736bdbe
+1445-02-20 16:52:11.809 INFO  Received PlaceOrder, OrderId = 558cb087-cbe3-43f1-bc48-f7dc93fa1be7
+1445-02-20 16:52:11.823 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.827 INFO  Sending PlaceOrder command, OrderId = 31b25da9-c761-45ac-8c09-99ac4ccf69dd
+1445-02-20 16:52:11.831 INFO  Received PlaceOrder, OrderId = 1fd2aea7-a799-4fee-9456-a4109736bdbe
+1445-02-20 16:52:11.843 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.846 INFO  Sending PlaceOrder command, OrderId = c308907f-17b9-465a-9e22-0a2cab3aa235
+1445-02-20 16:52:11.851 INFO  Received PlaceOrder, OrderId = 31b25da9-c761-45ac-8c09-99ac4ccf69dd
+1445-02-20 16:52:11.862 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.866 INFO  Sending PlaceOrder command, OrderId = 9a7e4d31-a142-49a0-ab70-53e48dd484f7
+1445-02-20 16:52:11.870 INFO  Received PlaceOrder, OrderId = c308907f-17b9-465a-9e22-0a2cab3aa235
+1445-02-20 16:52:11.883 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.886 INFO  Sending PlaceOrder command, OrderId = 9ecb598e-8062-45cb-8c18-fae061965843
+1445-02-20 16:52:11.891 INFO  Received PlaceOrder, OrderId = 9a7e4d31-a142-49a0-ab70-53e48dd484f7
+1445-02-20 16:52:11.915 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.921 INFO  Sending PlaceOrder command, OrderId = 703d6c93-93bb-403d-829a-20fb81b3af38
+1445-02-20 16:52:11.926 INFO  Received PlaceOrder, OrderId = 9ecb598e-8062-45cb-8c18-fae061965843
+1445-02-20 16:52:11.941 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.944 INFO  Sending PlaceOrder command, OrderId = 6ca67798-ec29-428a-b2ca-2bbba435b787
+1445-02-20 16:52:11.949 INFO  Received PlaceOrder, OrderId = 703d6c93-93bb-403d-829a-20fb81b3af38
+1445-02-20 16:52:11.961 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.964 INFO  Sending PlaceOrder command, OrderId = 5a58a35a-05bc-4cc1-9b1a-43a7e13a018c
+1445-02-20 16:52:11.968 INFO  Received PlaceOrder, OrderId = 6ca67798-ec29-428a-b2ca-2bbba435b787
+1445-02-20 16:52:11.981 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:11.985 INFO  Sending PlaceOrder command, OrderId = 33d0b216-e38b-4b09-b642-15e44ac92824
+1445-02-20 16:52:11.988 INFO  Received PlaceOrder, OrderId = 5a58a35a-05bc-4cc1-9b1a-43a7e13a018c
+1445-02-20 16:52:12.001 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.005 INFO  Sending PlaceOrder command, OrderId = ec41fb1c-cc68-47af-b7d5-be1789b04db6
+1445-02-20 16:52:12.020 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.026 INFO  Sending PlaceOrder command, OrderId = eebc9542-59b6-437f-a802-65db015d5c1b
+1445-02-20 16:52:12.028 INFO  Received PlaceOrder, OrderId = ec41fb1c-cc68-47af-b7d5-be1789b04db6
+1445-02-20 16:52:12.035 INFO  Received PlaceOrder, OrderId = 33d0b216-e38b-4b09-b642-15e44ac92824
+1445-02-20 16:52:12.048 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.051 INFO  Sending PlaceOrder command, OrderId = 7c6f4ddb-b6b5-43bf-b651-21a456485781
+1445-02-20 16:52:12.051 INFO  Received PlaceOrder, OrderId = eebc9542-59b6-437f-a802-65db015d5c1b
+1445-02-20 16:52:12.077 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.080 INFO  Sending PlaceOrder command, OrderId = 9ef5eafc-3963-4a8a-beb9-b197300763b6
+1445-02-20 16:52:12.083 INFO  Received PlaceOrder, OrderId = 7c6f4ddb-b6b5-43bf-b651-21a456485781
+1445-02-20 16:52:12.102 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.106 INFO  Sending PlaceOrder command, OrderId = 46eca7d7-5d5a-4876-8cfc-df20b978b685
+1445-02-20 16:52:12.111 INFO  Received PlaceOrder, OrderId = 9ef5eafc-3963-4a8a-beb9-b197300763b6
+1445-02-20 16:52:12.133 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.134 INFO  Received PlaceOrder, OrderId = 46eca7d7-5d5a-4876-8cfc-df20b978b685
+1445-02-20 16:52:12.138 INFO  Sending PlaceOrder command, OrderId = db99ace0-0ae5-4900-98f1-363e028ae20e
+1445-02-20 16:52:12.161 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.161 INFO  Received PlaceOrder, OrderId = db99ace0-0ae5-4900-98f1-363e028ae20e
+1445-02-20 16:52:12.165 INFO  Sending PlaceOrder command, OrderId = bdf464dd-d97a-4051-87ca-e5daa725fa27
+1445-02-20 16:52:12.185 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.188 INFO  Sending PlaceOrder command, OrderId = f7299e88-68b0-45e8-9936-85aaee7a41b8
+1445-02-20 16:52:12.192 INFO  Received PlaceOrder, OrderId = bdf464dd-d97a-4051-87ca-e5daa725fa27
+1445-02-20 16:52:12.216 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.219 INFO  Sending PlaceOrder command, OrderId = 15dff70f-2019-4159-831e-9094ba559b54
+1445-02-20 16:52:12.221 INFO  Received PlaceOrder, OrderId = f7299e88-68b0-45e8-9936-85aaee7a41b8
+1445-02-20 16:52:12.238 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.242 INFO  Sending PlaceOrder command, OrderId = f59a0735-6321-4cc3-9734-2629b8d99f94
+1445-02-20 16:52:12.247 INFO  Received PlaceOrder, OrderId = 15dff70f-2019-4159-831e-9094ba559b54
+1445-02-20 16:52:12.259 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.262 INFO  Sending PlaceOrder command, OrderId = 268a7ce6-7375-41d4-968d-ab765bbaaf95
+1445-02-20 16:52:12.266 INFO  Received PlaceOrder, OrderId = f59a0735-6321-4cc3-9734-2629b8d99f94
+1445-02-20 16:52:12.280 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.283 INFO  Sending PlaceOrder command, OrderId = 36c57c9c-0f8f-441b-a58b-0761dce0339f
+1445-02-20 16:52:12.290 INFO  Received PlaceOrder, OrderId = 268a7ce6-7375-41d4-968d-ab765bbaaf95
+1445-02-20 16:52:12.302 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.305 INFO  Sending PlaceOrder command, OrderId = e3f825a7-7f03-4cc1-bf9b-84b18c86d110
+1445-02-20 16:52:12.310 INFO  Received PlaceOrder, OrderId = 36c57c9c-0f8f-441b-a58b-0761dce0339f
+1445-02-20 16:52:12.328 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.332 INFO  Sending PlaceOrder command, OrderId = 2600ff9a-e3d5-43c4-9b6b-90a4430ae7de
+1445-02-20 16:52:12.339 INFO  Received PlaceOrder, OrderId = e3f825a7-7f03-4cc1-bf9b-84b18c86d110
+1445-02-20 16:52:12.342 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.351 INFO  Sending PlaceOrder command, OrderId = 4dcbeba4-7a89-4206-853b-bd7c08712fb6
+1445-02-20 16:52:12.367 INFO  Received PlaceOrder, OrderId = 2600ff9a-e3d5-43c4-9b6b-90a4430ae7de
+1445-02-20 16:52:12.377 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.380 INFO  Sending PlaceOrder command, OrderId = 858efe27-2041-469a-a8fa-0be6309587ee
+1445-02-20 16:52:12.385 INFO  Received PlaceOrder, OrderId = 4dcbeba4-7a89-4206-853b-bd7c08712fb6
+1445-02-20 16:52:12.400 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.403 INFO  Sending PlaceOrder command, OrderId = 0d3e78eb-1e7b-4967-9af9-4ad334c3101d
+1445-02-20 16:52:12.407 INFO  Received PlaceOrder, OrderId = 858efe27-2041-469a-a8fa-0be6309587ee
+1445-02-20 16:52:12.420 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.423 INFO  Sending PlaceOrder command, OrderId = 7919dcf3-afcf-4f81-969a-c1e8c5016eab
+1445-02-20 16:52:12.428 INFO  Received PlaceOrder, OrderId = 0d3e78eb-1e7b-4967-9af9-4ad334c3101d
+1445-02-20 16:52:12.439 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.443 INFO  Sending PlaceOrder command, OrderId = 3bab0a00-4f87-474b-907c-1db3e4eaee09
+1445-02-20 16:52:12.447 INFO  Received PlaceOrder, OrderId = 7919dcf3-afcf-4f81-969a-c1e8c5016eab
+1445-02-20 16:52:12.460 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.464 INFO  Sending PlaceOrder command, OrderId = 68f8594f-b11e-476c-99d8-c91b1e3756c0
+1445-02-20 16:52:12.468 INFO  Received PlaceOrder, OrderId = 3bab0a00-4f87-474b-907c-1db3e4eaee09
+1445-02-20 16:52:12.484 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.487 INFO  Sending PlaceOrder command, OrderId = 939ebaeb-5c4f-470e-9abc-3bf08503cc55
+1445-02-20 16:52:12.491 INFO  Received PlaceOrder, OrderId = 68f8594f-b11e-476c-99d8-c91b1e3756c0
+1445-02-20 16:52:12.504 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.508 INFO  Sending PlaceOrder command, OrderId = be9c3968-7808-4e52-90bf-5bf925eea329
+1445-02-20 16:52:12.511 INFO  Received PlaceOrder, OrderId = 939ebaeb-5c4f-470e-9abc-3bf08503cc55
+1445-02-20 16:52:12.528 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:52:12.533 INFO  Received PlaceOrder, OrderId = be9c3968-7808-4e52-90bf-5bf925eea329
+1445-02-20 16:53:31.129 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-20 16:53:31.572 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 16:53:32.505 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:39.679 INFO  Sending PlaceOrder command, OrderId = 639776e9-67df-44bf-9fa4-e4fd34fff6df
+1445-02-20 16:53:39.798 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:39.903 INFO  Received PlaceOrder, OrderId = 639776e9-67df-44bf-9fa4-e4fd34fff6df
+1445-02-20 16:53:39.912 INFO  Unknown input. Please try again.
+1445-02-20 16:53:39.915 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:40.609 INFO  Sending PlaceOrder command, OrderId = 79ed079a-8505-4907-a4fe-f3e277019b5a
+1445-02-20 16:53:40.626 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:40.638 INFO  Received PlaceOrder, OrderId = 79ed079a-8505-4907-a4fe-f3e277019b5a
+1445-02-20 16:53:41.078 INFO  Sending PlaceOrder command, OrderId = 6ad2953f-8e55-4693-81ce-fe7bbb340b67
+1445-02-20 16:53:41.093 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:41.101 INFO  Received PlaceOrder, OrderId = 6ad2953f-8e55-4693-81ce-fe7bbb340b67
+1445-02-20 16:53:41.321 INFO  Sending PlaceOrder command, OrderId = a57c3dc3-a042-4e98-9f49-fc2369ce3ae0
+1445-02-20 16:53:41.336 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:41.341 INFO  Received PlaceOrder, OrderId = a57c3dc3-a042-4e98-9f49-fc2369ce3ae0
+1445-02-20 16:53:41.561 INFO  Sending PlaceOrder command, OrderId = 8e58f299-7dfa-4d9b-8822-4ad07d6cf169
+1445-02-20 16:53:41.583 INFO  Received PlaceOrder, OrderId = 8e58f299-7dfa-4d9b-8822-4ad07d6cf169
+1445-02-20 16:53:41.585 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:41.758 INFO  Sending PlaceOrder command, OrderId = 525e59db-968f-4b43-946d-855a3fa3d87a
+1445-02-20 16:53:41.775 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:41.780 INFO  Received PlaceOrder, OrderId = 525e59db-968f-4b43-946d-855a3fa3d87a
+1445-02-20 16:53:41.955 INFO  Sending PlaceOrder command, OrderId = 57855714-3b3a-4420-9991-457a34d0fab6
+1445-02-20 16:53:41.974 INFO  Received PlaceOrder, OrderId = 57855714-3b3a-4420-9991-457a34d0fab6
+1445-02-20 16:53:41.977 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:42.139 INFO  Sending PlaceOrder command, OrderId = b20d41a2-eaa9-4bd2-b861-fd69772b3ccb
+1445-02-20 16:53:42.162 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:42.166 INFO  Received PlaceOrder, OrderId = b20d41a2-eaa9-4bd2-b861-fd69772b3ccb
+1445-02-20 16:53:42.339 INFO  Sending PlaceOrder command, OrderId = 46d44b8e-7fd5-4eed-9e28-dcd43a78c632
+1445-02-20 16:53:42.361 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:42.366 INFO  Received PlaceOrder, OrderId = 46d44b8e-7fd5-4eed-9e28-dcd43a78c632
+1445-02-20 16:53:42.538 INFO  Sending PlaceOrder command, OrderId = 24aa8da4-52b1-45d6-8244-efe5dbcf8032
+1445-02-20 16:53:42.552 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:42.558 INFO  Received PlaceOrder, OrderId = 24aa8da4-52b1-45d6-8244-efe5dbcf8032
+1445-02-20 16:53:42.751 INFO  Sending PlaceOrder command, OrderId = 95e6cbe0-225b-4d35-8fed-22b0941d7bcc
+1445-02-20 16:53:42.766 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:42.775 INFO  Received PlaceOrder, OrderId = 95e6cbe0-225b-4d35-8fed-22b0941d7bcc
+1445-02-20 16:53:42.920 INFO  Sending PlaceOrder command, OrderId = 5ea3ff45-4b10-4fe0-8497-315db0586592
+1445-02-20 16:53:42.938 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:42.945 INFO  Received PlaceOrder, OrderId = 5ea3ff45-4b10-4fe0-8497-315db0586592
+1445-02-20 16:53:43.113 INFO  Sending PlaceOrder command, OrderId = e5c6ddad-2c84-4a50-9940-3cacc5d551e0
+1445-02-20 16:53:43.134 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:43.140 INFO  Received PlaceOrder, OrderId = e5c6ddad-2c84-4a50-9940-3cacc5d551e0
+1445-02-20 16:53:43.299 INFO  Sending PlaceOrder command, OrderId = 2ef072fa-849c-4871-bfdf-4773584d1229
+1445-02-20 16:53:43.317 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:43.322 INFO  Received PlaceOrder, OrderId = 2ef072fa-849c-4871-bfdf-4773584d1229
+1445-02-20 16:53:43.484 INFO  Sending PlaceOrder command, OrderId = 4e3b90ce-469e-41a4-b371-c89bad6fdde2
+1445-02-20 16:53:43.501 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:43.509 INFO  Received PlaceOrder, OrderId = 4e3b90ce-469e-41a4-b371-c89bad6fdde2
+1445-02-20 16:53:43.666 INFO  Sending PlaceOrder command, OrderId = af01d383-f2e2-434f-9aca-3e4c1e17b84b
+1445-02-20 16:53:43.684 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:43.688 INFO  Received PlaceOrder, OrderId = af01d383-f2e2-434f-9aca-3e4c1e17b84b
+1445-02-20 16:53:43.841 INFO  Sending PlaceOrder command, OrderId = d4950b29-ce3a-48a0-a42f-84c075e6b521
+1445-02-20 16:53:43.863 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:43.867 INFO  Received PlaceOrder, OrderId = d4950b29-ce3a-48a0-a42f-84c075e6b521
+1445-02-20 16:53:44.023 INFO  Sending PlaceOrder command, OrderId = 9d3d415d-0718-417b-8a3e-9bb8a3433065
+1445-02-20 16:53:44.045 INFO  Received PlaceOrder, OrderId = 9d3d415d-0718-417b-8a3e-9bb8a3433065
+1445-02-20 16:53:44.047 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:44.197 INFO  Sending PlaceOrder command, OrderId = 0c2a8f98-d143-482c-93ee-3efa48d9315a
+1445-02-20 16:53:44.214 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:44.220 INFO  Received PlaceOrder, OrderId = 0c2a8f98-d143-482c-93ee-3efa48d9315a
+1445-02-20 16:53:44.382 INFO  Sending PlaceOrder command, OrderId = 5693e82d-7b66-4fce-9462-6cbad52bbc9c
+1445-02-20 16:53:44.401 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:44.401 INFO  Received PlaceOrder, OrderId = 5693e82d-7b66-4fce-9462-6cbad52bbc9c
+1445-02-20 16:53:44.566 INFO  Sending PlaceOrder command, OrderId = b2e9b58c-4723-4e66-8655-75a307dd1e43
+1445-02-20 16:53:44.586 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:44.593 INFO  Received PlaceOrder, OrderId = b2e9b58c-4723-4e66-8655-75a307dd1e43
+1445-02-20 16:53:44.737 INFO  Sending PlaceOrder command, OrderId = 07c15571-fa26-4e37-9f72-faf287972601
+1445-02-20 16:53:44.758 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:44.763 INFO  Received PlaceOrder, OrderId = 07c15571-fa26-4e37-9f72-faf287972601
+1445-02-20 16:53:44.923 INFO  Sending PlaceOrder command, OrderId = 8ecaaf43-33d7-4b9e-9f26-f7057bd8be97
+1445-02-20 16:53:44.941 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:44.946 INFO  Received PlaceOrder, OrderId = 8ecaaf43-33d7-4b9e-9f26-f7057bd8be97
+1445-02-20 16:53:45.109 INFO  Sending PlaceOrder command, OrderId = 09578350-5d89-4a60-ae02-97c23bdc0cc0
+1445-02-20 16:53:45.126 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:45.132 INFO  Received PlaceOrder, OrderId = 09578350-5d89-4a60-ae02-97c23bdc0cc0
+1445-02-20 16:53:45.279 INFO  Sending PlaceOrder command, OrderId = 716bce0c-8f4d-432a-a59c-21c00064b711
+1445-02-20 16:53:45.299 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:45.310 INFO  Received PlaceOrder, OrderId = 716bce0c-8f4d-432a-a59c-21c00064b711
+1445-02-20 16:53:45.458 INFO  Sending PlaceOrder command, OrderId = 1c43a858-3583-4386-a0d1-0eec89ff00d9
+1445-02-20 16:53:45.474 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:45.479 INFO  Received PlaceOrder, OrderId = 1c43a858-3583-4386-a0d1-0eec89ff00d9
+1445-02-20 16:53:45.621 INFO  Sending PlaceOrder command, OrderId = d7096ab3-1c86-4328-a066-54136a3afec2
+1445-02-20 16:53:45.648 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:45.655 INFO  Received PlaceOrder, OrderId = d7096ab3-1c86-4328-a066-54136a3afec2
+1445-02-20 16:53:45.796 INFO  Sending PlaceOrder command, OrderId = 19e8cb74-a7ea-44d2-b970-620faa0619fb
+1445-02-20 16:53:45.811 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:45.814 INFO  Received PlaceOrder, OrderId = 19e8cb74-a7ea-44d2-b970-620faa0619fb
+1445-02-20 16:53:46.128 INFO  Sending PlaceOrder command, OrderId = 666929a3-587c-4636-961c-a370c86a3feb
+1445-02-20 16:53:46.155 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:46.167 INFO  Received PlaceOrder, OrderId = 666929a3-587c-4636-961c-a370c86a3feb
+1445-02-20 16:53:46.315 INFO  Sending PlaceOrder command, OrderId = feaff92c-1277-47b2-b057-1a76676c8f9e
+1445-02-20 16:53:46.333 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:46.334 INFO  Received PlaceOrder, OrderId = feaff92c-1277-47b2-b057-1a76676c8f9e
+1445-02-20 16:53:46.556 INFO  Sending PlaceOrder command, OrderId = 1fca9c6f-82ac-4120-b41b-9102b2ec6a43
+1445-02-20 16:53:46.585 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:46.589 INFO  Received PlaceOrder, OrderId = 1fca9c6f-82ac-4120-b41b-9102b2ec6a43
+1445-02-20 16:53:46.766 INFO  Sending PlaceOrder command, OrderId = b9efb1fb-8b2e-4c83-9fa5-18a08de3ffcc
+1445-02-20 16:53:46.791 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:46.797 INFO  Received PlaceOrder, OrderId = b9efb1fb-8b2e-4c83-9fa5-18a08de3ffcc
+1445-02-20 16:53:46.979 INFO  Sending PlaceOrder command, OrderId = 4539d27d-8e7a-463d-9be7-e1ddc4b52b08
+1445-02-20 16:53:46.995 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:47.001 INFO  Received PlaceOrder, OrderId = 4539d27d-8e7a-463d-9be7-e1ddc4b52b08
+1445-02-20 16:53:47.221 INFO  Sending PlaceOrder command, OrderId = 322359df-9215-44f2-90a2-1402929b8638
+1445-02-20 16:53:47.252 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:47.252 INFO  Received PlaceOrder, OrderId = 322359df-9215-44f2-90a2-1402929b8638
+1445-02-20 16:53:47.442 INFO  Sending PlaceOrder command, OrderId = d2517d3c-4fb1-469f-aa8d-b6ca6a7178b0
+1445-02-20 16:53:47.459 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:53:47.465 INFO  Received PlaceOrder, OrderId = d2517d3c-4fb1-469f-aa8d-b6ca6a7178b0
+1445-02-20 16:53:48.373 INFO  Initiating shutdown.
+1445-02-20 16:53:48.395 INFO  Shutdown complete.
+1445-02-20 16:57:33.255 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-20 16:57:33.480 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 16:57:34.499 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:57:38.653 INFO  Sending PlaceOrder command, OrderId = 0ba7f8b9-a421-4580-969a-a65813695905
+1445-02-20 16:57:38.773 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:58:05.499 INFO  Sending PlaceOrder command, OrderId = fe75f9b8-d61d-40af-8828-98355cd6df83
+1445-02-20 16:58:05.526 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:58:06.384 INFO  Sending PlaceOrder command, OrderId = d2c417c1-cce8-4265-9584-f00f553472df
+1445-02-20 16:58:06.408 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:58:06.765 INFO  Sending PlaceOrder command, OrderId = fadd7b8e-a83b-4d47-9325-481152394966
+1445-02-20 16:58:06.785 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:58:07.198 INFO  Sending PlaceOrder command, OrderId = cd56336b-ac29-4e10-b1d2-d7e00a4c272e
+1445-02-20 16:58:07.214 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:59:15.955 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-20 16:59:16.155 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 16:59:17.237 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:59:45.777 INFO  Sending PlaceOrder command, OrderId = 038453f0-1af0-424a-939f-c386630a3219
+1445-02-20 16:59:45.890 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:59:46.240 INFO  Sending PlaceOrder command, OrderId = 522f9ba2-cc2c-41db-b016-d725cc79976c
+1445-02-20 16:59:46.255 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:59:46.478 INFO  Sending PlaceOrder command, OrderId = 0ee8276b-dd15-467e-b2d2-eace0b47a04d
+1445-02-20 16:59:46.503 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:59:46.764 INFO  Sending PlaceOrder command, OrderId = 461ec7a3-fce4-434b-a69c-244121836b20
+1445-02-20 16:59:46.785 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:59:47.056 INFO  Sending PlaceOrder command, OrderId = ee26e714-97f1-40a7-9b58-ac6c94321031
+1445-02-20 16:59:47.080 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:59:47.270 INFO  Sending PlaceOrder command, OrderId = 555c3e0e-92c7-4912-bd80-6460bb24db72
+1445-02-20 16:59:47.290 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:59:49.862 INFO  Sending PlaceOrder command, OrderId = b0fe4a2a-d26d-4027-b4f4-5e793d5756bd
+1445-02-20 16:59:49.882 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:59:50.241 INFO  Sending PlaceOrder command, OrderId = ec45d9a6-043e-4cae-a3f5-3ed49aefd563
+1445-02-20 16:59:50.262 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 16:59:50.786 INFO  Sending PlaceOrder command, OrderId = 9170c2bd-a735-4a7e-9bc9-fea0039a5f4f
+1445-02-20 16:59:50.801 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 17:00:55.696 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-20 17:00:55.856 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 17:00:56.524 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 17:01:44.367 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-20 17:01:44.468 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 17:01:44.743 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 17:01:50.498 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-20 17:01:50.607 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 17:01:50.884 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 22:32:02.715 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-20 22:32:03.212 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 22:32:04.498 INFO  Press 'P' to place an order, or 'Q' to quit.
+1445-02-20 22:32:28.794 INFO  Sending PlaceOrder command, OrderId = bd929eef-f2da-4c13-86e5-7e7b7a81c068
+1445-02-20 22:32:28.952 INFO  Press 'P' to place an order, or 'Q' to quit.

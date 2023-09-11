@@ -1,0 +1,12 @@
+E:\Documents\Projects\FullStack\RetailDemo\Messages\bin\Debug\net6.0\Sales.Messages.deps.json
+E:\Documents\Projects\FullStack\RetailDemo\Messages\bin\Debug\net6.0\Sales.Messages.dll
+E:\Documents\Projects\FullStack\RetailDemo\Messages\bin\Debug\net6.0\Sales.Messages.pdb
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.csproj.AssemblyReference.cache
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.AssemblyInfoInputs.cache
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.AssemblyInfo.cs
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.csproj.CoreCompileInputs.cache
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.dll
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\refint\Sales.Messages.dll
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.pdb
+E:\Documents\Projects\FullStack\RetailDemo\Messages\obj\Debug\net6.0\ref\Sales.Messages.dll

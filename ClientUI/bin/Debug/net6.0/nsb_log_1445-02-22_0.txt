@@ -1,0 +1,33 @@
+﻿1445-02-22 09:03:20.210 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-22 09:03:20.436 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-22 09:04:29.035 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-22 09:04:29.299 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-22 09:04:30.637 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:04:55.248 INFO  Sending PlaceOrder command, OrderId = ecf4d393-3abb-4f36-8f87-3d4970743162
+1445-02-22 09:04:55.389 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:05:12.729 INFO  Sent a correlated message to ecf4d393-3abb-4f36-8f87-3d4970743162
+1445-02-22 09:05:12.732 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:05:43.105 INFO  Sending PlaceOrder command, OrderId = 311d0d6b-4ef4-41fe-86d4-3b7dc450c101
+1445-02-22 09:05:43.130 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:05:45.149 INFO  Sent a correlated message to 311d0d6b-4ef4-41fe-86d4-3b7dc450c101
+1445-02-22 09:05:45.151 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:06:20.072 INFO  Sending PlaceOrder command, OrderId = a9749530-df8d-4ea8-8020-4272c788dfa6
+1445-02-22 09:06:20.091 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:06:20.205 INFO  Sending PlaceOrder command, OrderId = 2f81f84f-2614-42ad-9afc-b364c92e40d3
+1445-02-22 09:06:20.221 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:06:26.774 INFO  Sending PlaceOrder command, OrderId = 6b7a9ab6-8900-4ce9-91bd-6c688472819c
+1445-02-22 09:06:26.790 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:06:58.253 INFO  Sending PlaceOrder command, OrderId = b8385b4d-b1bd-4ada-a6a8-4747f9131d17
+1445-02-22 09:06:58.269 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:07:50.467 INFO  Sending PlaceOrder command, OrderId = 444873d7-8062-4a5d-a1b6-2e0005514933
+1445-02-22 09:07:50.509 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:08:18.024 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-22 09:08:18.267 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-22 09:08:19.591 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:08:37.266 INFO  Sending PlaceOrder command, OrderId = 9f65523e-b598-43a1-abe9-2319736e5b13
+1445-02-22 09:08:37.380 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:09:35.962 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+1445-02-22 09:09:36.301 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-22 09:09:37.538 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.
+1445-02-22 09:09:49.125 INFO  Sending PlaceOrder command, OrderId = 8f689fd6-fa10-4956-a284-7cc7abd7cfae
+1445-02-22 09:09:49.256 INFO  Press 'P' to place an order, 'C' to cancel last order, or 'Q' to quit.

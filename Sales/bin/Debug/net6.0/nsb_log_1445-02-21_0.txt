@@ -1,0 +1,634 @@
+﻿1445-02-21 09:07:26.674 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 09:07:26.907 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:07:39.160 INFO  Received PlaceOrder, OrderId = 67ec443e-ecb3-45a0-98a3-507f6587b220
+1445-02-21 09:25:53.623 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 09:25:54.146 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:26:05.000 INFO  Received PlaceOrder, OrderId = 536f7f3e-0674-4b49-8213-ff64e179840c
+1445-02-21 09:34:18.081 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 09:34:18.321 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:34:25.674 INFO  Received PlaceOrder, OrderId = 962f7831-5cfe-498d-9a7d-83d1480dbe4e
+1445-02-21 09:35:51.125 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 09:35:51.328 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:35:57.535 INFO  Received PlaceOrder, OrderId = 97b8a0b4-6d44-4482-8ff2-c86c4e8cfbc8
+1445-02-21 09:36:07.361 INFO  Received PlaceOrder, OrderId = 39e95578-fa95-4be4-967a-26e8bca22da6
+1445-02-21 09:37:01.903 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 09:37:02.106 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:37:08.271 INFO  Received PlaceOrder, OrderId = 09f0e142-067d-4862-88fa-e04c5c160564
+1445-02-21 09:37:22.080 INFO  Received PlaceOrder, OrderId = c25924c2-1343-41fa-86a6-5236e623d085
+1445-02-21 09:37:22.595 INFO  Received PlaceOrder, OrderId = 33ffc4af-b202-4fbf-b797-786db00d9c53
+1445-02-21 09:37:22.616 INFO  Received PlaceOrder, OrderId = 9ad59038-a4fc-4aee-80aa-3ca36d9460d0
+1445-02-21 09:37:22.642 INFO  Received PlaceOrder, OrderId = 95f92466-1d8f-4476-82b9-6346c81071b3
+1445-02-21 09:37:22.672 INFO  Received PlaceOrder, OrderId = bb48a426-e482-4f7d-bb79-da5a558387a2
+1445-02-21 09:37:22.711 INFO  Received PlaceOrder, OrderId = 04bbd75f-cf04-46f5-8fa9-0588402f8df3
+1445-02-21 09:37:22.744 INFO  Received PlaceOrder, OrderId = 9f656c5c-0f3c-4011-8a83-2f4ba782b8f8
+1445-02-21 09:39:16.451 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 09:39:16.652 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:43:59.598 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 09:43:59.819 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 09:44:06.144 INFO  Received PlaceOrder, OrderId = c270d56f-5cde-4ded-952f-98e4e9463191
+1445-02-21 11:11:10.057 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 11:11:10.324 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 11:12:05.782 INFO  Received PlaceOrder, OrderId = ed11d389-428d-4a68-9553-c4c566e15a3e
+1445-02-21 11:15:41.300 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 11:15:41.574 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 11:16:06.038 INFO  Received PlaceOrder, OrderId = 8bf91cc0-ad3b-49a7-99fb-ee1e8ef7b2b0
+1445-02-21 11:16:06.079 INFO  Received PlaceOrder, OrderId = 8bf91cc0-ad3b-49a7-99fb-ee1e8ef7b2b0
+1445-02-21 11:16:15.142 INFO  Received PlaceOrder, OrderId = b2408055-fd20-4207-b406-a1c558306b7d
+1445-02-21 11:16:15.144 INFO  Received PlaceOrder, OrderId = b2408055-fd20-4207-b406-a1c558306b7d
+1445-02-21 11:16:18.064 INFO  Received PlaceOrder, OrderId = f30e41bd-7242-429f-a90f-f473e91dd493
+1445-02-21 11:16:18.068 INFO  Received PlaceOrder, OrderId = f30e41bd-7242-429f-a90f-f473e91dd493
+1445-02-21 11:16:18.247 INFO  Received PlaceOrder, OrderId = 2503a2ae-339c-4bf4-b53b-3e0e875699fc
+1445-02-21 11:16:18.251 INFO  Received PlaceOrder, OrderId = 2503a2ae-339c-4bf4-b53b-3e0e875699fc
+1445-02-21 11:16:18.427 INFO  Received PlaceOrder, OrderId = 3467e582-1737-4442-a53c-00782a3f4e3b
+1445-02-21 11:16:18.431 INFO  Received PlaceOrder, OrderId = 3467e582-1737-4442-a53c-00782a3f4e3b
+1445-02-21 13:27:20.773 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 13:27:20.999 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 13:27:26.272 INFO  Received PlaceOrder, OrderId = f3c247ce-07b8-46d8-8dd8-3e7579879df1
+1445-02-21 13:27:26.307 INFO  Received PlaceOrder, OrderId = f3c247ce-07b8-46d8-8dd8-3e7579879df1
+1445-02-21 13:28:08.487 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 13:28:08.699 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 13:28:16.276 INFO  Received PlaceOrder, OrderId = 3aaaed0b-c882-4fdc-9ed6-2390a30c878b
+1445-02-21 13:28:16.310 INFO  Received PlaceOrder, OrderId = 3aaaed0b-c882-4fdc-9ed6-2390a30c878b
+1445-02-21 13:29:52.057 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 13:29:52.298 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 13:30:00.192 INFO  Received PlaceOrder, OrderId = 08572b2f-ae5a-4259-ba6d-3129019afdd0
+1445-02-21 13:30:00.230 INFO  Received PlaceOrder, OrderId = 08572b2f-ae5a-4259-ba6d-3129019afdd0
+1445-02-21 13:31:08.977 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 13:31:09.203 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 13:31:15.154 INFO  Slaes - Received PlaceOrder, OrderId = 7c8774df-4b01-4cdd-b728-858ae65188d6
+1445-02-21 13:31:15.191 INFO  Received PlaceOrder, OrderId = 7c8774df-4b01-4cdd-b728-858ae65188d6
+1445-02-21 13:58:36.970 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 13:58:37.101 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 13:59:37.634 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:37.737 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/MessageMutators/MutateInstanceMessage/MutateIncomingMessageBehavior.cs:line 61
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/UnitOfWork/UnitOfWorkBehavior.cs:line 42
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/UnitOfWork/UnitOfWorkBehavior.cs:line 64
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/MessageMutators/MutateTransportMessage/MutateIncomingTransportMessageBehavior.cs:line 60
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:37:634095 Z
+	Handler failure time: 2023-09-06 10:59:37:637495 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 4e9952e1-e1ef-47e6-85ba-834b8106ea4f
+	Pipeline canceled: False
+1445-02-21 13:59:37.764 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:37.768 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:37:764243 Z
+	Handler failure time: 2023-09-06 10:59:37:766416 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 4e9952e1-e1ef-47e6-85ba-834b8106ea4f
+	Pipeline canceled: False
+1445-02-21 13:59:37.778 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:37.780 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:37:778909 Z
+	Handler failure time: 2023-09-06 10:59:37:779986 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 4e9952e1-e1ef-47e6-85ba-834b8106ea4f
+	Pipeline canceled: False
+1445-02-21 13:59:37.793 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:37.797 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:37:793878 Z
+	Handler failure time: 2023-09-06 10:59:37:796911 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 4e9952e1-e1ef-47e6-85ba-834b8106ea4f
+	Pipeline canceled: False
+1445-02-21 13:59:37.809 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:37.812 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:37:809391 Z
+	Handler failure time: 2023-09-06 10:59:37:811316 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 4e9952e1-e1ef-47e6-85ba-834b8106ea4f
+	Pipeline canceled: False
+1445-02-21 13:59:37.828 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:37.832 WARN  Delayed Retry will reschedule message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' after a delay of 00:00:10 because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:37:828637 Z
+	Handler failure time: 2023-09-06 10:59:37:829703 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 4e9952e1-e1ef-47e6-85ba-834b8106ea4f
+	Pipeline canceled: False
+1445-02-21 13:59:37.948 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:37.952 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:37:948810 Z
+	Handler failure time: 2023-09-06 10:59:37:950922 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 33dd2888-076b-45b6-815f-38282a2ffb3c
+	Pipeline canceled: False
+1445-02-21 13:59:37.965 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:37.968 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:37:965120 Z
+	Handler failure time: 2023-09-06 10:59:37:966822 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 33dd2888-076b-45b6-815f-38282a2ffb3c
+	Pipeline canceled: False
+1445-02-21 13:59:37.979 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:37.983 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:37:979749 Z
+	Handler failure time: 2023-09-06 10:59:37:982808 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 33dd2888-076b-45b6-815f-38282a2ffb3c
+	Pipeline canceled: False
+1445-02-21 13:59:37.996 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:37.999 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:37:996060 Z
+	Handler failure time: 2023-09-06 10:59:37:998894 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 33dd2888-076b-45b6-815f-38282a2ffb3c
+	Pipeline canceled: False
+1445-02-21 13:59:38.011 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:38.015 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:38:011717 Z
+	Handler failure time: 2023-09-06 10:59:38:014848 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 33dd2888-076b-45b6-815f-38282a2ffb3c
+	Pipeline canceled: False
+1445-02-21 13:59:38.027 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:38.031 WARN  Delayed Retry will reschedule message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' after a delay of 00:00:20 because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:38:027056 Z
+	Handler failure time: 2023-09-06 10:59:38:030288 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 33dd2888-076b-45b6-815f-38282a2ffb3c
+	Pipeline canceled: False
+1445-02-21 13:59:38.969 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:38.972 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:38:969728 Z
+	Handler failure time: 2023-09-06 10:59:38:971705 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: f41b2552-3f90-45dc-98a0-de0a18556ae0
+	Pipeline canceled: False
+1445-02-21 13:59:38.993 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:38.995 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:38:993053 Z
+	Handler failure time: 2023-09-06 10:59:38:994602 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: f41b2552-3f90-45dc-98a0-de0a18556ae0
+	Pipeline canceled: False
+1445-02-21 13:59:39.009 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:39.012 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:39:009786 Z
+	Handler failure time: 2023-09-06 10:59:39:012147 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: f41b2552-3f90-45dc-98a0-de0a18556ae0
+	Pipeline canceled: False
+1445-02-21 13:59:39.024 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:39.027 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:39:024489 Z
+	Handler failure time: 2023-09-06 10:59:39:026967 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: f41b2552-3f90-45dc-98a0-de0a18556ae0
+	Pipeline canceled: False
+1445-02-21 13:59:39.041 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:39.043 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:39:041305 Z
+	Handler failure time: 2023-09-06 10:59:39:042917 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: f41b2552-3f90-45dc-98a0-de0a18556ae0
+	Pipeline canceled: False
+1445-02-21 13:59:39.056 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:39.059 WARN  Delayed Retry will reschedule message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' after a delay of 00:00:30 because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:39:056328 Z
+	Handler failure time: 2023-09-06 10:59:39:058925 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: f41b2552-3f90-45dc-98a0-de0a18556ae0
+	Pipeline canceled: False
+1445-02-21 13:59:39.988 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:39.991 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:39:988719 Z
+	Handler failure time: 2023-09-06 10:59:39:990467 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 1f8271ca-77cb-416f-92aa-9460dea767e3
+	Pipeline canceled: False
+1445-02-21 13:59:40.004 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:40.008 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:40:004803 Z
+	Handler failure time: 2023-09-06 10:59:40:007747 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 1f8271ca-77cb-416f-92aa-9460dea767e3
+	Pipeline canceled: False
+1445-02-21 13:59:40.036 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:40.038 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:40:036021 Z
+	Handler failure time: 2023-09-06 10:59:40:037819 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 1f8271ca-77cb-416f-92aa-9460dea767e3
+	Pipeline canceled: False
+1445-02-21 13:59:40.052 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:40.055 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:40:052499 Z
+	Handler failure time: 2023-09-06 10:59:40:054698 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 1f8271ca-77cb-416f-92aa-9460dea767e3
+	Pipeline canceled: False
+1445-02-21 13:59:40.084 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:40.087 INFO  Immediate Retry is going to retry message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' because of an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:40:084266 Z
+	Handler failure time: 2023-09-06 10:59:40:086123 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 1f8271ca-77cb-416f-92aa-9460dea767e3
+	Pipeline canceled: False
+1445-02-21 13:59:40.113 INFO  Slaes - Received PlaceOrder, OrderId = 4f568e9a-01c0-499e-9195-973f24b08d01
+1445-02-21 13:59:40.120 ERROR Moving message 'd4b084a9-9e64-4b2b-a1d0-b07500b52bd4' to the error queue 'error' because processing failed due to an exception:
+System.Exception: BOOM
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in E:\Documents\Projects\FullStack\RetailDemo\Sales\PlaceOrderHandler.cs:line 19
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 33
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 40
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 32
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 35
+   at NServiceBus.RetryAcknowledgementBehavior.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/ServicePlatform/Retries/RetryAcknowledgementBehavior.cs:line 25
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 49
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext, CancellationToken cancellationToken) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 68
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId, CancellationToken messageProcessingCancellationToken) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 340
+Exception details:
+	Message type: Messages.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2023-09-06 10:59:40:113577 Z
+	Handler failure time: 2023-09-06 10:59:40:117868 Z
+	Handler canceled: False
+	Message ID: d4b084a9-9e64-4b2b-a1d0-b07500b52bd4
+	Transport message ID: 1f8271ca-77cb-416f-92aa-9460dea767e3
+	Pipeline canceled: False
+1445-02-21 15:55:16.054 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 15:55:16.824 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 15:55:18.481 INFO  Slaes - Received PlaceOrder, OrderId = 24f7ce45-88ba-4b2e-9cc1-17fea3d87a3d
+1445-02-21 15:55:52.841 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 15:55:53.116 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 15:55:54.449 INFO  Slaes - Received PlaceOrder, OrderId = 24f7ce45-88ba-4b2e-9cc1-17fea3d87a3d
+1445-02-21 15:55:54.528 INFO  Received PlaceOrder, OrderId = 24f7ce45-88ba-4b2e-9cc1-17fea3d87a3d
+1445-02-21 15:55:54.627 INFO  Slaes - Received PlaceOrder, OrderId = e338dfba-ffef-4e07-95cf-e8c1316e3d87
+1445-02-21 15:55:54.631 INFO  Received PlaceOrder, OrderId = e338dfba-ffef-4e07-95cf-e8c1316e3d87
+1445-02-21 15:55:54.671 INFO  Slaes - Received PlaceOrder, OrderId = 60cf6a06-7c09-473d-9df9-443735f80dcb
+1445-02-21 15:55:54.678 INFO  Received PlaceOrder, OrderId = 60cf6a06-7c09-473d-9df9-443735f80dcb
+1445-02-21 15:55:54.737 INFO  Slaes - Received PlaceOrder, OrderId = 78640487-d0ba-42ab-bfb4-bb85e2603ee8
+1445-02-21 15:55:54.748 INFO  Received PlaceOrder, OrderId = 78640487-d0ba-42ab-bfb4-bb85e2603ee8
+1445-02-21 15:56:28.764 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-21 15:56:28.985 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 15:56:38.323 INFO  Slaes - Received PlaceOrder, OrderId = 3d424b94-3e7e-4517-9826-e8470eb88bb0
+1445-02-21 15:56:38.357 INFO  Received PlaceOrder, OrderId = 3d424b94-3e7e-4517-9826-e8470eb88bb0

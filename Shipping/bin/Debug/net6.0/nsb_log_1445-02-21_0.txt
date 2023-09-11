@@ -1,0 +1,34 @@
+﻿1445-02-21 13:28:10.468 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Shipping\bin\Debug\net6.0\' with level Info
+1445-02-21 13:28:10.619 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 13:28:16.507 INFO  Shipping - Received OrderPlaced, OrderId = 3aaaed0b-c882-4fdc-9ed6-2390a30c878b - Charging credit card...
+1445-02-21 13:29:52.056 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Shipping\bin\Debug\net6.0\' with level Info
+1445-02-21 13:29:52.280 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 13:30:00.453 INFO  Shipping - Received OrderPlaced, OrderId = 08572b2f-ae5a-4259-ba6d-3129019afdd0 - Charging credit card...
+1445-02-21 13:30:00.542 INFO  Shipping - Received OrderBilled, OrderId = 08572b2f-ae5a-4259-ba6d-3129019afdd0 - Charging credit card...
+1445-02-21 13:31:08.984 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Shipping\bin\Debug\net6.0\' with level Info
+1445-02-21 13:31:09.205 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 13:31:15.403 INFO  Shipping - Received OrderPlaced, OrderId = 7c8774df-4b01-4cdd-b728-858ae65188d6 - Charging credit card...
+1445-02-21 13:31:15.484 INFO  Shipping - Received OrderBilled, OrderId = 7c8774df-4b01-4cdd-b728-858ae65188d6 - Charging credit card...
+1445-02-21 13:58:36.709 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Shipping\bin\Debug\net6.0\' with level Info
+1445-02-21 13:58:36.896 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 15:55:16.052 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Shipping\bin\Debug\net6.0\' with level Info
+1445-02-21 15:55:17.078 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 15:55:53.022 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Shipping\bin\Debug\net6.0\' with level Info
+1445-02-21 15:55:53.321 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 15:55:54.973 INFO  Received OrderPlaced, OrderId = 24f7ce45-88ba-4b2e-9cc1-17fea3d87a3d
+1445-02-21 15:55:55.031 INFO  Received OrderPlaced, OrderId = e338dfba-ffef-4e07-95cf-e8c1316e3d87
+1445-02-21 15:55:55.046 INFO  Received OrderPlaced, OrderId = 78640487-d0ba-42ab-bfb4-bb85e2603ee8
+1445-02-21 15:55:55.061 INFO  Received OrderPlaced, OrderId = 60cf6a06-7c09-473d-9df9-443735f80dcb
+1445-02-21 15:55:55.106 INFO  Received OrderBilled, OrderId = e338dfba-ffef-4e07-95cf-e8c1316e3d87
+1445-02-21 15:55:55.198 INFO  Received OrderBilled, OrderId = 24f7ce45-88ba-4b2e-9cc1-17fea3d87a3d
+1445-02-21 15:55:55.209 INFO  Received OrderBilled, OrderId = 60cf6a06-7c09-473d-9df9-443735f80dcb
+1445-02-21 15:55:55.221 INFO  Order [e338dfba-ffef-4e07-95cf-e8c1316e3d87] - Successfully shipped.
+1445-02-21 15:55:55.231 INFO  Received OrderBilled, OrderId = 78640487-d0ba-42ab-bfb4-bb85e2603ee8
+1445-02-21 15:55:55.243 INFO  Order [60cf6a06-7c09-473d-9df9-443735f80dcb] - Successfully shipped.
+1445-02-21 15:55:55.250 INFO  Order [24f7ce45-88ba-4b2e-9cc1-17fea3d87a3d] - Successfully shipped.
+1445-02-21 15:55:55.262 INFO  Order [78640487-d0ba-42ab-bfb4-bb85e2603ee8] - Successfully shipped.
+1445-02-21 15:56:28.770 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Shipping\bin\Debug\net6.0\' with level Info
+1445-02-21 15:56:29.014 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-21 15:56:38.605 INFO  Received OrderPlaced, OrderId = 3d424b94-3e7e-4517-9826-e8470eb88bb0
+1445-02-21 15:56:38.672 INFO  Received OrderBilled, OrderId = 3d424b94-3e7e-4517-9826-e8470eb88bb0
+1445-02-21 15:56:38.748 INFO  Order [3d424b94-3e7e-4517-9826-e8470eb88bb0] - Successfully shipped.

@@ -1,0 +1,35 @@
+﻿1445-02-20 16:51:44.709 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-20 16:51:44.874 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 16:53:31.186 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-20 16:53:31.593 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 16:57:33.329 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-20 16:57:33.593 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 16:57:38.920 INFO  Received PlaceOrder, OrderId = 0ba7f8b9-a421-4580-969a-a65813695905
+1445-02-20 16:58:05.527 INFO  Received PlaceOrder, OrderId = fe75f9b8-d61d-40af-8828-98355cd6df83
+1445-02-20 16:58:06.413 INFO  Received PlaceOrder, OrderId = d2c417c1-cce8-4265-9584-f00f553472df
+1445-02-20 16:58:06.789 INFO  Received PlaceOrder, OrderId = fadd7b8e-a83b-4d47-9325-481152394966
+1445-02-20 16:58:07.224 INFO  Received PlaceOrder, OrderId = cd56336b-ac29-4e10-b1d2-d7e00a4c272e
+1445-02-20 16:59:16.014 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-20 16:59:16.237 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 16:59:43.473 INFO  Initiating shutdown.
+1445-02-20 16:59:43.490 INFO  Shutdown complete.
+1445-02-20 16:59:59.833 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-20 16:59:59.987 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 17:00:00.601 INFO  Received PlaceOrder, OrderId = 0ee8276b-dd15-467e-b2d2-eace0b47a04d
+1445-02-20 17:00:00.629 INFO  Received PlaceOrder, OrderId = ee26e714-97f1-40a7-9b58-ac6c94321031
+1445-02-20 17:00:00.644 INFO  Received PlaceOrder, OrderId = b0fe4a2a-d26d-4027-b4f4-5e793d5756bd
+1445-02-20 17:00:00.652 INFO  Received PlaceOrder, OrderId = 038453f0-1af0-424a-939f-c386630a3219
+1445-02-20 17:00:00.660 INFO  Received PlaceOrder, OrderId = 9170c2bd-a735-4a7e-9bc9-fea0039a5f4f
+1445-02-20 17:00:00.668 INFO  Received PlaceOrder, OrderId = 555c3e0e-92c7-4912-bd80-6460bb24db72
+1445-02-20 17:00:00.675 INFO  Received PlaceOrder, OrderId = ec45d9a6-043e-4cae-a3f5-3ed49aefd563
+1445-02-20 17:00:00.688 INFO  Received PlaceOrder, OrderId = 522f9ba2-cc2c-41db-b016-d725cc79976c
+1445-02-20 17:00:00.696 INFO  Received PlaceOrder, OrderId = 461ec7a3-fce4-434b-a69c-244121836b20
+1445-02-20 17:00:55.709 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-20 17:00:55.875 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 17:01:44.501 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-20 17:01:44.587 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 17:01:50.653 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-20 17:01:50.741 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 22:32:02.714 INFO  Logging to 'E:\Documents\Projects\FullStack\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+1445-02-20 22:32:03.207 INFO  No valid license could be found. Falling back to trial license with start date '2023-09-05'.
+1445-02-20 22:32:29.105 INFO  Received PlaceOrder, OrderId = bd929eef-f2da-4c13-86e5-7e7b7a81c068
